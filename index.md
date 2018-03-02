@@ -17,3 +17,5 @@ Some useful functions for the [idris programming language](https://www.idris-lan
 Repository: [https://github.com/jheiling/idris-extras](https://github.com/jheiling/idris-extras)
 ## Electron Bindings For Idris
 Repository: [https://github.com/jheiling/idris-electron](https://github.com/jheiling/idris-electron)
+## React Bindings For Idris
+Repository: [https://github.com/jheiling/idris-react](https://github.com/jheiling/idris-react)
