@@ -15,6 +15,8 @@ Repository: [https://github.com/jheiling/elm-sierpinski-carpet](https://github.c
 ## Idris Extras
 Some useful functions for the [idris programming language](https://www.idris-lang.org/).  
 Repository: [https://github.com/jheiling/idris-extras](https://github.com/jheiling/idris-extras)
+## Idris Js
+Repository: [https://github.com/jheiling/idris-extras](https://github.com/jheiling/idris-js)
 ## Electron Bindings For Idris
 Repository: [https://github.com/jheiling/idris-electron](https://github.com/jheiling/idris-electron)
 ## React Bindings For Idris
