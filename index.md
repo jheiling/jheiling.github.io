@@ -10,6 +10,9 @@ Documentation: [https://jheiling.github.io/unity-signals/](https://jheiling.gith
 Code Generator: [https://github.com/jheiling/unity-signals-generator](https://github.com/jheiling/unity-signals-generator)
 ### Unity3D Extras
 Repository: [https://github.com/jheiling/unity-extras](https://github.com/jheiling/unity-extras)
+### Unity3D F#
+Library to make Unity3D easier to use with F#.  
+Repository: [https://github.com/jheiling/unity-fs](https://github.com/jheiling/unity-fs)
 ### Code Generator For BrokenBricksECS
 Repository: [https://github.com/jheiling/BrokenBricksECSGenerator](https://github.com/jheiling/BrokenBricksECSGenerator)
 ## Idris
