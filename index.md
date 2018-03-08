@@ -15,6 +15,10 @@ Library to make Unity3D easier to use with F#.
 Repository: [https://github.com/jheiling/unity-fs](https://github.com/jheiling/unity-fs)
 ### Code Generator For BrokenBricksECS
 Repository: [https://github.com/jheiling/BrokenBricksECSGenerator](https://github.com/jheiling/BrokenBricksECSGenerator)
+## F#
+### F# StructTypes
+Struct replacements for common reference types to avoid heap allocations.  
+Repository [https://github.com/jheiling/fs-struct-types](https://github.com/jheiling/fs-struct-types)
 ## Idris
 ### Idris Extras
 Some useful functions for the [idris programming language](https://www.idris-lang.org/).  
